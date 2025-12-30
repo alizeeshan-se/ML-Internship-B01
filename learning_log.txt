@@ -1,0 +1,6 @@
+Day 1:
+Learned what Git and GitHub are.
+Learned how to create a repository.
+Learned basic git commands.
+
+which abviosly i knew this all, and i am familiar with it from along time.
